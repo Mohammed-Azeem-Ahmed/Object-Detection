@@ -1,0 +1,29 @@
+names:
+- B
+- BB
+- BBB
+- BBR
+- BR
+- BRB
+- BRR
+- R
+- RB
+- RBB
+- RBR
+- RR
+- RRB
+- RRR
+- SILO
+- blue
+- purple
+- red
+nc: 18
+roboflow:
+  license: CC BY 4.0
+  project: final-kabdd
+  url: https://universe.roboflow.com/16tuna/final-kabdd/dataset/1
+  version: 1
+  workspace: 16tuna
+test: test/images
+train: train/images
+val: valid/images
